@@ -5,15 +5,29 @@ In order to run this project, MATLAB must be installed on the user's computer. A
 
 
 For more details about:
-Milestone description:https://github.com/Hantoulifadi/OTFS-based-on-OFDM-System/wiki/Milestone
-OTFS Mathematical Equation: https://github.com/Hantoulifadi/OTFS-based-on-OFDM-System/wiki/OTFS-Mathematical-Equation
-Schedule of Labor: https://github.com/Hantoulifadi/OTFS-based-on-OFDM-System/wiki/Schedule-of-Labor
-Code: https://github.com/Hantoulifadi/OTFS-based-on-OFDM-System
-Results Plots: https://github.com/Hantoulifadi/OTFS-based-on-OFDM-System/wiki/Results
-Video Demo: https://kennesawedu-my.sharepoint.com/personal/fhantoul_students_kennesaw_edu/_layouts/15/stream.aspx?id=%2Fpersonal%2Ffhantoul%5Fstudents%5Fkennesaw%5Fedu%2FDocuments%2FRecordings%2FMeeting%2D20230415%5F153116%2DMeeting%20Recording%2Emp4&referrer=Teams%2ETEAMS%2DWEB&referrerScenario=p2p%2Dp2p&ga=1
-Videio Demo:  https://kennesawedu-my.sharepoint.com/:v:/g/personal/fhantoul_students_kennesaw_edu/ETcHQKrEEIJAo9Is2AtF-IUBZpmY0glu9Wvfux1wQyvMNw?e=DBTtTW![image]
-New-contributors: https://github.com/Hantoulifadi/OTFS-based-on-OFDM-System/wiki/New-contributors
-license : https://github.com/Hantoulifadi/OTFS-based-on-OFDM-System/wiki/license
+Manual:                                       https://github.com/Hantoulifadi/OTFS-based-on-OFDM-System/wiki/Manual
+Description and-Purpose:           https://github.com/Hantoulifadi/OTFS-based-on-OFDM-System/wiki/Description--and-Purpose
+
+Milestone description:                https://github.com/Hantoulifadi/OTFS-based-on-OFDM-System/wiki/Milestone
+Milestone 1: https://github.com/Hantoulifadi/OTFS-based-on-OFDM-System/blob/main/Milestone%201.pdf
+Milestone 2: https://github.com/Hantoulifadi/OTFS-based-on-OFDM-System/blob/main/Milestone%202.pdf
+Milestone 3: https://github.com/Hantoulifadi/OTFS-based-on-OFDM-System/blob/main/OTFS-Milestone%204.pptm
+Milestone 4: https://github.com/Hantoulifadi/OTFS-based-on-OFDM-System/blob/main/Milestone%203.pdf
+
+OTFS Mathematical Equation:   https://github.com/Hantoulifadi/OTFS-based-on-OFDM-System/wiki/OTFS-Mathematical-Equation
+Schedule of Labor:                      https://github.com/Hantoulifadi/OTFS-based-on-OFDM-System/wiki/Schedule-of-Labor
+
+Code:                                           https://github.com/Hantoulifadi/OTFS-based-on-OFDM-System
+OFDM: https://github.com/Hantoulifadi/OTFS-based-on-OFDM-System/blob/main/OFDM.mlx
+OTFS: https://github.com/Hantoulifadi/OTFS-based-on-OFDM-System/blob/main/OTFS.mlx
+
+Results:                                        Results Plots: https://github.com/Hantoulifadi/OTFS-based-on-OFDM-System/wiki/Results
+New-contributors                         https://github.com/Hantoulifadi/OTFS-based-on-OFDM-System/wiki/New-contributors
+license :                                        https://github.com/Hantoulifadi/OTFS-based-on-OFDM-System/wiki/license
+References:                                  https://github.com/Hantoulifadi/OTFS-based-on-OFDM-System/wiki/References
+![image](https://user-images.githubusercontent.com/85643835/232454624-54ddd50e-38bd-41ea-b894-ac63c5b5fde0.png)
+
+
 
 
 
