@@ -52,7 +52,7 @@ license :                                        https://github.com/Hantoulifadi
 
 References:                                  https://github.com/Hantoulifadi/OTFS-based-on-OFDM-System/wiki/References
 
-![image](https://user-images.githubusercontent.com/85643835/233852478-c1e9a19a-0fcd-4324-b9c2-430a30fec71d.png)
+
 
 
 
